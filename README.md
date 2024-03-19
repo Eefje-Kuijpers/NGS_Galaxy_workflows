@@ -7,6 +7,8 @@ Here you can find the workflows for the Galaxy tutorials followed.
 
 
 ### NGS data logistics
+![image](https://github.com/Eefje-Kuijpers/NGS_Galaxy_workflows/assets/13732259/c56d725a-6bab-476b-a79e-0598eb03fff5)
+![image](https://github.com/Eefje-Kuijpers/NGS_Galaxy_workflows/assets/13732259/3cc3f640-d1d8-4d2c-b6ff-8210e57dc8ca)
 
 
 ### Unicycler Assembly
