@@ -20,6 +20,7 @@ Here you can find the workflows for the Galaxy tutorials followed.
 
 
 ### Antibiotic resistance detection
+![image](https://github.com/Eefje-Kuijpers/NGS_Galaxy_workflows/assets/13732259/34d124d2-6714-411c-922d-67641d714ab2)
 
 
 ### Pathogen detection from (direct Nanopore) sequencing data using Galaxy
