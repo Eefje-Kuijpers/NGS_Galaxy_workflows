@@ -12,6 +12,7 @@ Here you can find the workflows for the Galaxy tutorials followed.
 
 
 ### Unicycler Assembly
+![image](https://github.com/Eefje-Kuijpers/NGS_Galaxy_workflows/assets/13732259/b8a7f394-f5cc-478a-806f-80eb3e69dd24)
 
 
 ### Genome Assembly Quality Control
