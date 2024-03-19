@@ -16,6 +16,7 @@ Here you can find the workflows for the Galaxy tutorials followed.
 
 
 ### Genome Assembly Quality Control
+![image](https://github.com/Eefje-Kuijpers/NGS_Galaxy_workflows/assets/13732259/64763eec-f3fe-4e77-8d63-82d8ed1b09fa)
 
 
 ### Antibiotic resistance detection
