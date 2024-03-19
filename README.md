@@ -3,7 +3,7 @@
 Here you can find the workflows for the Galaxy tutorials followed.
 
 ### A short introduction to Galaxy
-![image](https://github.com/Eefje-Kuijpers/NGS_Galaxy_workflows/assets/13732259/f97921d0-617d-4c3b-a785-49d5827
+![image](https://github.com/Eefje-Kuijpers/NGS_Galaxy_workflows/assets/13732259/abd59133-aefa-42e3-b6a5-0203b4cad572)
 
 
 ### NGS data logistics
