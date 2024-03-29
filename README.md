@@ -24,4 +24,7 @@ Here you can find the workflows for the Galaxy tutorials followed.
 
 
 ### Pathogen detection from (direct Nanopore) sequencing data using Galaxy
+![image](https://github.com/Eefje-Kuijpers/NGS_Galaxy_workflows/assets/13732259/e758abad-01f2-40da-936e-17bbbdf3e40e)
+![image](https://github.com/Eefje-Kuijpers/NGS_Galaxy_workflows/assets/13732259/18a315ef-1be1-4f97-a14e-877049d0b89e)
+
 
